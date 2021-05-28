@@ -1,4 +1,4 @@
-#Hystrix Dashboard Microservice
+# Hystrix Dashboard Microservice (Kotlin)
 
 http://localhost:9295/hystrix
 
